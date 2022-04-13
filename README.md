@@ -8,3 +8,17 @@ Visit the link below for further details: https://www.virustotal.com/gui/file/d6
 
 Visit our website for more free tools and other helpful products:
 https://synergy-usa-llc.com
+
+
+
+We are builind a new HyperVBackup version. If you are interested providing feedback and also collect your free copy, please contact us via our web site:
+https://synergy-usa-llc.com/contact-page/
+
+
+
+
+
+![ΑΑΑΑΑΑΑΑΑΑΑΑΑΑΑ](https://user-images.githubusercontent.com/94911727/163180109-32e0986f-d196-45bd-a4fa-1db7c2048c58.png)
+
+
+
