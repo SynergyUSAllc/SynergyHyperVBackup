@@ -18,7 +18,7 @@ https://synergy-usa-llc.com/contact-page/
 
 
 
-![ΑΑΑΑΑΑΑΑΑΑΑΑΑΑΑ](https://user-images.githubusercontent.com/94911727/163180109-32e0986f-d196-45bd-a4fa-1db7c2048c58.png)
+![ΑΑΑΑΑΑΑΑΑΑΑΑΑΑΑ](https://user-images.githubusercontent.com/94911727/163180453-58297734-4e6e-45d5-971b-014039ad1a48.png)
 
 
 
