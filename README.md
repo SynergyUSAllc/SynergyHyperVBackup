@@ -11,7 +11,7 @@ https://synergy-usa-llc.com
 
 
 
-We are builind a new HyperVBackup version. If you are interested providing feedback and also collect your free copy, please contact us via our web site:
+We are building a new HyperVBackup version. If you are interested providing feedback and also collect your free copy, please contact us via our web site:
 https://synergy-usa-llc.com/contact-page/
 
 
