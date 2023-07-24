@@ -3,7 +3,7 @@
 [![IMAGE ALT TEXT](https://synergy-usa-llc.com/wp-content/uploads/2022/08/HyperVBackup1-1.png)](https://www.youtube.com/watch?v=-mvIZZiBkuk&ab_channel=SynergyUSAllc "How to backup your Hyper-V server for free")
 
 
-**How to backup your Hyper-V server for free"**
+**How to backup your Hyper-V server for free using a simple/light/small learning curve app**
 
 Segment/Isolate your backups media from Malware.
 
@@ -69,7 +69,7 @@ This extra layer of protection is essential in today’s digital landscape, wher
 Visit our project page for your free community version:
 https://synergy-usa-llc.com/synergy-hyperv-backup/
 
-![ΑΑΑΑΑΑΑΑΑΑΑΑΑΑΑ](https://user-images.githubusercontent.com/94911727/163180453-58297734-4e6e-45d5-971b-014039ad1a48.png)
+![ΑΑΑΑΑΑΑΑΑΑΑΑΑΑΑ](https://synergy-usa-llc.com/wp-content/uploads/2022/08/HyperVBackup2-1.png)
 
 
 
