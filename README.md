@@ -1,6 +1,6 @@
 # SynergyHyperVBackup
 
-[![IMAGE ALT TEXT](https://synergy-usa-llc.com/wp-content/uploads/2022/08/HyperVBackup1-1.png) (http://www.youtube.com/watch?v=euTQDOgviaM)
+[![IMAGE ALT TEXT](https://synergy-usa-llc.com/wp-content/uploads/2022/08/HyperVBackup1-1.png)
 
 "How to backup your Hyper-V server for free")
 
