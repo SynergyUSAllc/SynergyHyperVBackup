@@ -69,6 +69,8 @@ This extra layer of protection is essential in today’s digital landscape, wher
 Visit our project page for your free community version:
 https://synergy-usa-llc.com/synergy-hyperv-backup/
 
+Check our YouTube Playlist: https://www.youtube.com/watch?v=gwFQDNZdB6o&list=PLAsOkJu4PEeRbazZLHd8OpfZ8je-4E0eW&index=3&ab_channel=SynergyUSAllc
+
 ![ΑΑΑΑΑΑΑΑΑΑΑΑΑΑΑ](https://synergy-usa-llc.com/wp-content/uploads/2022/08/HyperVBackup2-1.png)
 
 
