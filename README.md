@@ -1,13 +1,20 @@
 # SynergyHyperVBackup
 
-[![IMAGE ALT TEXT](https://synergy-usa-llc.com/various/HyperVBackupYouTubeImageforGithub.jpg)](http://www.youtube.com/watch?v=euTQDOgviaM](https://www.youtube.com/watch?v=-mvIZZiBkuk&t=6s&ab_channel=SynergyUSAllc) "How to backup your Hyper-V server for free")
+[![IMAGE ALT TEXT]([https://synergy-usa-llc.com/various/HyperVBackupYouTubeImageforGithub.jpg](https://synergy-usa-llc.com/wp-content/uploads/2022/08/HyperVBackup1-1.png))](http://www.youtube.com/watch?v=euTQDOgviaM](https://www.youtube.com/watch?v=-mvIZZiBkuk&ab_channel=SynergyUSAllc) "How to backup your Hyper-V server for free")
 
-Segment/Isolate your backups media from Malware 
+
+Segment/Isolate your backups media from Malware.
+
 Force disks to offline after backups.
+
 Become invisible from Ransomware/Viruses/Malware or Malicious Acts.
+
 Combine Microsoft’s free Hypervisor Hyper-V Server with our Community version for a 100% free solution.
+
 VMs are replicated so it’s easy to recover after an incident.
+
 Runs both on Hyper-V Core (Hypervisor Command Line Version) and Windows GUI versions.
+
 
 
 **THE SOLUTION**
