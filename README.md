@@ -19,6 +19,7 @@ Runs both on Hyper-V Core (Hypervisor Command Line Version) and Windows GUI vers
 
 
 
+
 **THE SOLUTION**
 
 We decided to take an alternative approach.
@@ -53,6 +54,7 @@ Synergy HyperV Backup is a backup application with some unique features:
 📧 Email Notifications: Receive email notifications after the execution of each backup to stay informed and updated.
 
 All above features guarantee that your backup data remains undetectable, even when faced with potential infections or other failures.
+
 
 
 **WHO NEEDS IT**
